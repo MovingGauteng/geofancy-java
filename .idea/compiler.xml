@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="geofancy_main" target="1.8" />
-      <module name="geofancy_test" target="1.8" />
+      <module name="geofancy-java_main" target="1.8" />
+      <module name="geofancy-java_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

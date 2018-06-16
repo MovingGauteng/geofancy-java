@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/geofancy.iml" filepath="$PROJECT_DIR$/.idea/modules/geofancy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/geofancy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/geofancy_main.iml" group="geofancy" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/geofancy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/geofancy_test.iml" group="geofancy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/geofancy-java.iml" filepath="$PROJECT_DIR$/.idea/modules/geofancy-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/geofancy-java_main.iml" filepath="$PROJECT_DIR$/.idea/modules/geofancy-java_main.iml" group="geofancy-java" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/geofancy-java_test.iml" filepath="$PROJECT_DIR$/.idea/modules/geofancy-java_test.iml" group="geofancy-java" />
     </modules>
   </component>
 </project>
