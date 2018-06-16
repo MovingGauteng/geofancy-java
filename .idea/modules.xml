@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/geofancy.iml" filepath="$PROJECT_DIR$/.idea/modules/geofancy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/geofancy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/geofancy_main.iml" group="geofancy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/geofancy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/geofancy_test.iml" group="geofancy" />
+    </modules>
+  </component>
+</project>
